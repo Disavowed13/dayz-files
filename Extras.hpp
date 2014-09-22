@@ -167,17 +167,39 @@ class Category_2000 {
 class Category_2016 {
 	class M1130_CV_EP1 {
 		type = "trade_any_vehicle";
-		buy[] ={500000,"Coins"};
-		sell[] ={150000,"Coins"};
+		buy[] ={5000000,"Coins"};
+		sell[] ={2500000,"Coins"};
 	};
 	class M1126_ICV_M2_EP1 {
 		type = "trade_any_vehicle";
-		buy[] ={500000,"Coins"};
-		sell[] ={150000,"Coins"};
+		buy[] ={5000000,"Coins"};
+		sell[] ={2500000,"Coins"};
 	};
-	class M1126_ICV_mk19_EP1 {
+	class M113_UN_EP1 {
+		type = "trade_items";
+		buy[] ={500000,"Coins"};
+		sell[] ={250000,"Coins"};
+	};
+	class M113_TK_EP1 {
+		type = "trade_items";
+		buy[] ={500000,"Coins"};
+		sell[] ={250000,"Coins"};
+	};
+	class BRDM2_CDF {
 		type = "trade_any_vehicle";
-		buy[] ={500000,"Coins"};
-		sell[] ={150000,"Coins"};
+		buy[] ={5000000,"Coins"};
+		sell[] ={2500000,"Coins"};
 	};
+	class BRDM2_GUE {
+		type = "trade_any_vehicle";
+		buy[] ={5000000,"Coins"};
+		sell[] ={2500000,"Coins"};
+	};
+	class BRDM2_INS {
+		type = "trade_any_vehicle";
+		buy[] ={5000000,"Coins"};
+		sell[] ={2500000,"Coins"};
+	};
+	
 };
+
